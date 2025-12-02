@@ -1,5 +1,4 @@
-FastAPI Async Crypto Exchange
-Un backend ad alte prestazioni per una piattaforma di scambio di criptovalute (Exchange), costruito con Python e FastAPI. Il progetto simula un sistema finanziario reale gestendo transazioni atomiche, aggiornamenti di prezzo in tempo reale e prevenzione di frodi (Double Spending).
+Il progetto simula un sistema finanziario reale gestendo transazioni atomiche, aggiornamenti di prezzo in tempo reale e prevenzione di frodi (Double Spending).
 
 Caratteristiche Principali:
 🔐 Sicurezza & Autenticazione
