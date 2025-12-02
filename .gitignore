@@ -1,0 +1,8 @@
+__pychache__
+venv/
+.env
+
+app/routers/__pychache__
+app/__pychache__
+alembic/__pychache__
+.vscode
